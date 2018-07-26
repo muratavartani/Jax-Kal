@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( c:\gamedev\jaxkalver1\jaxkalver1\scenemanager.cpp: 114)
+INFO: 1.13.0 ( c:\gamedev\jaxkalver1\jaxkalver1\window.cpp: 65)

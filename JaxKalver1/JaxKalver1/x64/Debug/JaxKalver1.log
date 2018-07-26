@@ -1,0 +1,28 @@
+﻿  Camera.cpp
+  Debug.cpp
+  GameScene.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\gamescene.cpp(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Main.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\window.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Mesh.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\mesh.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  MMath.cpp
+  Model.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\mesh.h(4): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ObjLoader.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\objloader.cpp(37): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  c:\gamedev\jaxkalver1\jaxkalver1\objloader.cpp(37): note: this argument is used as a buffer size
+  Scene.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\scene.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SceneEnvironment.cpp
+  SceneManager.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\window.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Shader.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\shader.cpp(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Timer.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\timer.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  VMath.cpp
+  Window.cpp
+c:\gamedev\jaxkalver1\jaxkalver1\window.cpp(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
+c:\gamedev\jaxkalver1\jaxkalver1\mmath.cpp(42): warning C4715: 'MATH::MMath::rotate': not all control paths return a value
