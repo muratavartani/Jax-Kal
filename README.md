@@ -6,3 +6,4 @@ The networking components are as follows;
 Number of players: Version1 -> 2 Players, Version2-> 4 players.
 Players we cooperate to achieve the goal of the level. If a player chooses single player, then that player can switch between characters anytime. If the player wants so switch between characters while in a multiplayer game, it sends a request to the other client. If he/she accepts, they switch characters with all the statuses that the characters have.All position, status and animations will be replicated to other client as well as environmental effects like position and stateof the enemies and pickup-able objects.
 
+test
