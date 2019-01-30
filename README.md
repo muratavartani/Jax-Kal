@@ -1,5 +1,7 @@
 # Jax-Kal Companion App
 
+Name: Khoi Vu, Ariel Andelt, Murat Avartani
+
 Description of the Capstone:
 
 - The game “Project Jax” is a multiplayer side scrolling platformer which we are building on a C++ 3D rendering engine with a 2D point of view. There is a wide story behind this platformer. We are creating a companion app for Project Jax which will be a comic book app of the game. After creating the app, we are planning to release 1 page every week. 
