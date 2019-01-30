@@ -11,7 +11,7 @@ Areas of Interest:
 
 Example Screens:
 
-- Check out “Design Idea.png” section on Github.
+- Check out “Design Idea.png” section.
 
 Values of the App:
 
