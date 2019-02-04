@@ -1,0 +1,1 @@
+[ERROR]Cannot open MTL file: Engine/GlobalElements/Resources/Models/Dice.mtl in c:\gamedev\continuumengine_v0.00\continuumengine_v0.00\engine\renderer\gameobject\loadobjmodel.cpp on line: 203[INFO]initied in c:\gamedev\continuumengine_v0.00\continuumengine_v0.00\engine\continuumengine.cpp on line: 44
