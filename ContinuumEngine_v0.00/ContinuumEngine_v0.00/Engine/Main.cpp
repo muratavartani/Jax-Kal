@@ -12,7 +12,7 @@ int main(int argc, char* args[]) {
 	//}
 
 	//VERSION 2
-	ContinuumEngine::GetInstance()->Initialize("Continuum Engine", 800, 600);
+	ContinuumEngine::GetInstance()->Initialize("Continuum Engine", 1600, 1200);
 
 	ContinuumEngine::GetInstance()->Run();
 
