@@ -5,7 +5,7 @@ std::unique_ptr<Camera> Camera::cameraInstance = nullptr;
 
 Camera::Camera() : position(glm::vec3()), perspective(glm::mat4()), orthographic(glm::mat4()), fieldOfView(0.0f), yaw(0.0f), pitch(0.0f), forwardVector(glm::vec3()), upVector(glm::vec3()), rightVector(glm::vec3()), worldUp(glm::vec3()), nearPlane(0.0f), farPlane(0.0f)
 {
-	fieldOfView = 45.0f;
+	fieldOfView = 90.0f;
 	forwardVector = glm::vec3(0.0f, 0.0f, -1.0f);
 	upVector = glm::vec3(0.0f, 1.0f, 0.0f);
 	worldUp = upVector;

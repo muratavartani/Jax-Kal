@@ -17,9 +17,9 @@ Game::~Game()
 }
 
 bool Game::Initialize() {
-	Camera::GetInstance()->SetPosition(glm::vec3(0.0f, 1.0f, 4.0f));
+	Camera::GetInstance()->SetPosition(glm::vec3(0.0f, 30.0f, 45.0f));
 	Camera::GetInstance()->AddLightSource(new LightSource(glm::vec3(0.0f, 0.0f, 2.0f), 0.1f, 0.5f, glm::vec3(1.0f, 1.0f, 1.0f)));
-	model = new Model("Engine/GlobalElements/Resources/Models/Apple.obj", "Engine/GlobalElements/Resources/Materials/Apple.mtl", ShaderHandler::GetInstance()->GetShader("baseShader"));
+	model = new Model("Engine/GlobalElements/Resources/Models/knightModel.obj", "Engine/GlobalElements/Resources/Materials/knightModel.mtl", ShaderHandler::GetInstance()->GetShader("baseShader"));
 	//model = new Model("Engine/GlobalElements/Resources/Models/Dice.obj", "Engine/GlobalElements/Resources/Models/Dice.mtl", ShaderHandler::GetInstance()->GetShader("baseShader"));
 
 	object1 = new GameObject(model);
