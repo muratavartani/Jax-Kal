@@ -1,4 +1,4 @@
-# Jax-Kal Companion App
+# Project Jax-Kal & Companion App
 
 Name: Khoi Vu, Ariel Andelt, Murat Avartani
 
