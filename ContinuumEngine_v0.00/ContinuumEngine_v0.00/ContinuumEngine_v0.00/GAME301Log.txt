@@ -1,1 +1,1 @@
-[INFO]initied in c:\users\user\documents\jax-kal\continuumengine_v0.00\continuumengine_v0.00\engine\continuumengine.cpp on line: 116
+[INFO]initied in c:\users\ariel\desktop\projects\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\continuumengine.cpp on line: 116
