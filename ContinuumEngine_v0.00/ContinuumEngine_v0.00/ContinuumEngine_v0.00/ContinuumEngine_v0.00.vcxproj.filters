@@ -75,6 +75,9 @@
     <ClCompile Include="Engine\Renderer\Graphics\Skybox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Engine\Framework\EventListener\KeyboardEventListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\GlobalElements\Timer.h">
@@ -138,6 +141,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Engine\Renderer\Graphics\Skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Framework\EventListener\KeyboardEventListener.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -18,7 +18,11 @@ void EventListener::Update()
 			MouseEventListener::Update(SDLEvent);
 			break;
 		case SDL_KEYDOWN:
+			KeyboardEventListener::Update(SDLEvent);
+			break;
 		case SDL_KEYUP:
+			KeyboardEventListener::Update(SDLEvent);
+			break;
 		default:
 			break;
 
