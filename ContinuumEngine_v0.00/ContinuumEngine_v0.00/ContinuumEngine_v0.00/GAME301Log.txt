@@ -1,1 +1,3 @@
-[INFO]initied in c:\users\khoi\desktop\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\continuumengine.cpp on line: 116
+[ERROR]Shader Loader: Link error: SkyboxShader: The  shader uses varying textureCoords, but previous shader does not write to it.
+Out of resource error.
+ in c:\users\ariel\desktop\git\arieandel\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\renderer\graphics\shaderhandler.cpp on line: 50[INFO]initied in c:\users\ariel\desktop\git\arieandel\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\continuumengine.cpp on line: 116
