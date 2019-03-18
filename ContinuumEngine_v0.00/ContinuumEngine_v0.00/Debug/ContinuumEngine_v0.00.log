@@ -1,0 +1,5 @@
+﻿  RenderMachine.cpp
+c:\users\ariel\desktop\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\renderer\graphics\rendermachine.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\ariel\desktop\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\renderer\graphics\rendermachine.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\ariel\desktop\continuumengine_v0.00\continuumengine_v0.00\continuumengine_v0.00\engine\renderer\graphics\rendermachine.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  ContinuumEngine_v0.00.vcxproj -> C:\Users\Ariel\Desktop\ContinuumEngine_v0.00\ContinuumEngine_v0.00\Debug\ContinuumEngine_v0.00.exe
