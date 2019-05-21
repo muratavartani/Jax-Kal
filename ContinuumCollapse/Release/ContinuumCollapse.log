@@ -1,0 +1,7 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  47 of 2366 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ContinuumCollapse.vcxproj -> C:\Users\User\Documents\Jax-Kal\ContinuumEngine\ContinuumEngine\Release\ContinuumCollapse.exe

@@ -1,0 +1,16 @@
+﻿  Game.cpp
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(257): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(265): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(208): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(227): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\continuumcollapse\game.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(257): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+c:\users\user\documents\jax-kal\continuumengine\continuumengine\deps\include\reactphysics\collision\shapes\heightfieldshape.h(265): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+  Generating Code...
+  ContinuumCollapse.vcxproj -> C:\Users\User\Documents\Jax-Kal\ContinuumEngine\ContinuumEngine\Debug\ContinuumCollapse.exe
